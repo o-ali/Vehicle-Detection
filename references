@@ -1,0 +1,4 @@
+Used code from lesson under the Vehicle Detection section in the Udactity course.
+
+For the final pipeline setup(scalings, y-start/stop):
+https://github.com/jeremy-shannon/CarND-Vehicle-Detection/blob/master/vehicle_detection_project.ipynb
